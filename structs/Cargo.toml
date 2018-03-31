@@ -1,0 +1,6 @@
+[package]
+name = "structs"
+version = "0.1.0"
+authors = ["Flühmann Tobias, INI-ON-NTO-COY-NNI <tobias.fluehmann@swisscom.com>"]
+
+[dependencies]
