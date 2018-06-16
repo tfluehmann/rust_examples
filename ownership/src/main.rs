@@ -122,7 +122,7 @@ fn cloning() {
     let x = String::from("hi");
     let y = x.clone();
 
-    println!("cloning is possilbe, x, y: {}, {}", x,y);
+    println!("cloning is possible, x, y: {}, {}", x,y);
     println!("Note: more about Copy and Drop on Stack -> appendix");
 }
 
